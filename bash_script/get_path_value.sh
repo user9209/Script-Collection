@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Sample result:
+#
+## d1=.
+## d2=/home/user
+## d3=/home/user
+
+
 # relative path
 dir1=`dirname $0`
 
